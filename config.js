@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Woooow you realy like me,huh?? ",  // Shows when they go past 5000%
+        extreme: "Woooow you realy liked my body,huh?? ",  // Shows when they go past 5000%
         high: "72.23cm🍑 ",              // Shows when they go past 1000%
         normal: "wooooow! 🥰"                           // Shows when they go past 100%
     },
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        message: "Now come get your man baby girl,tons of kisses are on the way",
         emojis: "😫😫😫😫😫😫"  // These will bounce around
     },
 
@@ -86,4 +86,5 @@ const CONFIG = {
 };
 
 // Don't modify anything below this line unless you know what you're doing
+
 window.VALENTINE_CONFIG = CONFIG; 
