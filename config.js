@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Woooow you realy liked my body,huh?? ",  // Shows when they go past 5000%
+        extreme: "Woooow you realy liked my zoozy,huh?? ",  // Shows when they go past 5000%
         high: "72.23cm🍑 ",              // Shows when they go past 1000%
         normal: "wooooow! 🥰"                           // Shows when they go past 100%
     },
@@ -88,3 +88,4 @@ const CONFIG = {
 // Don't modify anything below this line unless you know what you're doing
 
 window.VALENTINE_CONFIG = CONFIG; 
+
